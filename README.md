@@ -3,4 +3,7 @@
 
 ##### These prediction is done by using data such as the number of confirmed cases, deaths, recoveries, testing data, demographic data, and other relevant information. The predictions are based on assumptions and uncertain parameters, so it's important to note that the predictions are not always accurate. Predictive models are also continuously updated as new data and information becomes available, and they are often used in conjunction with other data, expert opinions, and qualitative information.
 
+## Programming language Used: Python
+
+## Tech stacks Used: Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn,Plotly
 
