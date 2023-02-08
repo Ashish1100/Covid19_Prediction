@@ -7,5 +7,5 @@ These prediction is done by using data such as the number of confirmed cases, de
 Python
 
 ### Tech stacks Used:
-Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn,Plotly
+Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn,Plotly, Jupyter Notebook
 
